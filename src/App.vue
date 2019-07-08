@@ -10,10 +10,11 @@
 </template>
 
 <script>
-  export default{
+  export default {
 
   }
+  let a = 0;
 </script>
 <style>
-    
+
 </style>
